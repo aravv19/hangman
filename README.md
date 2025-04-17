@@ -37,3 +37,7 @@ If you find any bugs or have cool ideas, feel free to send a pull request or ope
 ## Go Ahead, Use It!
 
 This is open-source, so do whatever you want with it. Have fun!
+
+HERE IS THE LINK FOR THE CODE-
+
+https://github.com/aravv19/hangman/blob/6489518481c568d1e3fbe58c790df420c677cbb6/HANGMAN
